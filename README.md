@@ -1,16 +1,13 @@
 # flutter_assignment_1
 
-A new Flutter project.
+A new Flutter project with Counter functionality and Image viewer with toggle button, to switch between two different images.
 
-## Getting Started
+## Initial Home Screen:
 
-This project is a starting point for a Flutter application.
+![homescreen](docs/homeScreen.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Counter with Different Image:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![After action](docs/afterAction.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- upon clicking on reset, it went back to ##Initial Home Screen
